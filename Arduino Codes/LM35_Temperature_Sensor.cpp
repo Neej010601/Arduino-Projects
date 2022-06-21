@@ -1,3 +1,4 @@
+#include <Arduino.h>
 int val;
 void setup() {
   Serial.begin(9600);  //for terminal

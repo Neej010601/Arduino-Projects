@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #include <LiquidCrystal.h> //for 16*2 LCD
 #include <Servo.h> //for servo motor
 #include <Keypad.h> //for keypad

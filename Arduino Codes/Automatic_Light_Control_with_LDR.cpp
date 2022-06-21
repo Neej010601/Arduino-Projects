@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #include <LiquidCrystal.h> //Library for LCD Display 
 
 //naming of pins

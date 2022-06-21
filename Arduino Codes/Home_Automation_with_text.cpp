@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 String text;
 void setup() {
 // for bluetooth we use serial.begin

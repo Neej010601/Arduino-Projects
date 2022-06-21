@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 String voice;
 void setup() {
   // for bluetooth we use serial.begin

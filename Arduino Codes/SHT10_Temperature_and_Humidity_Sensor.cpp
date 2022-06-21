@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #include <SHT1x-ESP.h>
 SHT1x sht1x (12, 13);
 

@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #include <Wire.h> // this library use to communicate with I2C
 #include <LiquidCrystal_I2C.h>
 
